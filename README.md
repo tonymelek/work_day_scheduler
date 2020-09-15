@@ -1,6 +1,6 @@
 # Work Day Scheduler
 ## Description
-This a simple Work Day Scheduler. The application uses localStorage to store the data the user enters. The application uses `moment.js` library for easier date and time access.
+This is a simple Work Day Scheduler. The application uses localStorage to store the data the user enters. The application uses `moment.js` library for easier date and time access.
 
 * The app renders the info. from localStorage everytime the page loads or user navigates between different days and populates them to the user so they can add or modify them.
 
@@ -18,7 +18,7 @@ This a simple Work Day Scheduler. The application uses localStorage to store the
 
 
 ## Test
-You many try the Work Scheduler by simply following the link to [Work  Day scheduler](https://tonymelek.github.io/work_day_scheduler/).
+You may try the Work Scheduler by simply following the link to [Work  Day scheduler](https://tonymelek.github.io/work_day_scheduler/).
 
 ## Feedback
 You are welecome to provide any feedback or comments on the code to be sent to my e-mail [tonymelek.au@gmail.com](mailto:tonymelek.au@gmail.com)
